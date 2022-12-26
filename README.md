@@ -14,4 +14,4 @@ this game is currently in Balochi language interface.
 - CSS
 
 ## Task list:
-- [] add another languages like English and Persian
+- [ ] add another languages like English and Persian
