@@ -8,6 +8,9 @@ Scores and high score will be stored throughout the game.
 
 this game is currently in Balochi language interface.
 
+You can see a live preview here:
+[GuessNumber](https://guessonenumber.netlify.app/).
+
 ## Technologies used:
 - Javascript
 - HTML
